@@ -2,17 +2,18 @@
     background: rgb(231, 134, 166);
 	color: white;
 	height: 60px;
+    font-size: 45px;
 }
 #encabezado {
     background: rgb(231, 134, 166);
 	color: white;
-	height: 30px;
+	height: 45px;
 }
 body {
     background-color: whitesmoke;
 }
 #columnas {
-    column-count: 3;
+    column-count: 2;
     size: 20px;
 }
 * {
