@@ -1,10 +1,10 @@
 #encabezado {
-    background: blanchedalmond;
+    background: rgb(231, 134, 166);
 	color: white;
 	height: 80px;
 }
 body {
-    background-color: wheat;
+    background-color: whitesmoke;
 }
 #columnas {
     column-count: 2;
