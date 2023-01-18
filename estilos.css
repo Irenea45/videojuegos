@@ -13,3 +13,18 @@ body {
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+h1 {
+  color: rgb(231, 134, 166);
+}
+a:link {
+    color: white;
+}
+a:hover {
+    color: antiquewhite;
+}
+a:visited {
+    color: black;
+}
+a:active {
+    color: white;
+}
