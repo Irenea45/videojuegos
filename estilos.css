@@ -1,13 +1,19 @@
+#título {
+    background: rgb(231, 134, 166);
+	color: white;
+	height: 60px;
+}
 #encabezado {
     background: rgb(231, 134, 166);
 	color: white;
-	height: 80px;
+	height: 30px;
+    font-size: large;
 }
 body {
     background-color: whitesmoke;
 }
 #columnas {
-    column-count: 2;
+    column-count: 3;
     size: 20px;
 }
 * {
