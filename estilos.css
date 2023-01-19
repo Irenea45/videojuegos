@@ -8,6 +8,14 @@
     background: rgb(231, 134, 166);
 	color: white;
 	height: 45px;
+    font-size: 35px;
+}
+#pie {
+    background: rgb(231, 134, 166);
+	color: white;
+	height: 30px;
+    font-size: 20px;
+    text-align: center;
 }
 body {
     background-color: whitesmoke;
@@ -22,8 +30,19 @@ body {
 h1,h2 {
   color: rgb(231, 134, 166);
 }
+#table {
+    margin-left: 30%;
+}
+th {
+    background-color: plum;
+    border:plum;
+}
+a {
+    outline: none;
+    text-decoration: none;
+}
 a:link {
-    color: white;
+    color: white
 }
 a:hover {
     color: antiquewhite;
