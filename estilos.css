@@ -1,55 +1,69 @@
 #título {
     background: rgb(231, 134, 166);
-	color: white;
-	height: 60px;
+    color: white;
+    height: 60px;
     font-size: 45px;
 }
+
 #encabezado {
     background: rgb(231, 134, 166);
-	color: white;
-	height: 45px;
+    color: white;
+    height: 45px;
     font-size: 35px;
 }
+
 #pie {
     background: rgb(231, 134, 166);
-	color: white;
-	height: 30px;
+    color: white;
+    height: 30px;
     font-size: 20px;
     text-align: center;
 }
+
 body {
     background-color: whitesmoke;
 }
+
 #columnas {
     column-count: 2;
     size: 20px;
 }
+
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-h1,h2 {
-  color: rgb(231, 134, 166);
+
+h1,
+h2 {
+    color: rgb(231, 134, 166);
 }
+
 #table {
     margin-left: 30%;
 }
+
 th {
     background-color: plum;
-    border:plum;
+    border: plum;
 }
+
 a {
     outline: none;
     text-decoration: none;
 }
+
 a:link {
     color: white
 }
+
 a:hover {
-    color: antiquewhite;
+    background-color: rgb(231, 134, 166);
 }
+
 a:visited {
     color: black;
 }
+
 a:active {
     color: white;
 }
